@@ -7,5 +7,7 @@
 loc.py
 src/ec2
 
+saved_models/
+
 .vscode/
 __pycahe__/
